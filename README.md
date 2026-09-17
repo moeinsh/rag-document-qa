@@ -109,3 +109,9 @@ See [`demo_output.txt`](demo_output.txt) — a real run: 3 PDFs ingested
 (3 documents, 3 pages, 3 chunks), 3 questions answered, every answer
 citing document title, page, and relevance score. All three questions
 retrieved the correct source document as the top hit.
+
+---
+
+**Author:** Moein Shahidi — [@moeinsh](https://github.com/moeinsh)
+
+© 2026 Moein Shahidi. Released under the MIT License.
